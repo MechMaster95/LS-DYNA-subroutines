@@ -1,7 +1,7 @@
       subroutine umat47(cm,eps,sig,epsp,hsv,dt1,capa,etype,tt)
 c Isotropic bilinear material User Materia Subroutine
 c Variables
-c WRITTEN BY K.L.BHARATH REDDY
+c WRITTEN BY N.L.Vishnuvardhan Raju
 c cm(1)=first material constant, here young's modulus
 c cm(2)=second material constant, here poisson's ratio
 c cm(3)=third material constant,yield stress.
