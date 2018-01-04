@@ -1,7 +1,7 @@
       subroutine umat43 (cm,eps,sig,epsp2,hsv,dt1,capa,etype,tt, 
         1 temper,failel,crv)
 c
-c Written by K.L.BHARATH REDDY.
+c Written by N.L.Vishnuvardhan Raju 
 c Copywright  @  NMCAD Lab.
 c
 c Redistribution and use in source and binary forms, with or without
@@ -143,8 +143,8 @@ c
 c    Compute shear modulus, G
 c
       G     = ym / (2.0*(1.0 + nu))  c Modulus of Rigidity
-      G1    = (ym*(1.0-nu)) / (1.0 - nu-2.0*nu*nu)   c E(1-v)/(1-v-2v²)
-      G2    = (ym*nu) / (1.0 - nu-2.0*nu*nu)   c Ev/(1-v-2v²)
+      G1    = (ym*(1.0-nu)) / (1.0 - nu-2.0*nu*nu)   c E(1-v)/(1-v-2vÂ²)
+      G2    = (ym*nu) / (1.0 - nu-2.0*nu*nu)   c Ev/(1-v-2vÂ²)
 c
 c    Assemble Elastic Moduli
 c
