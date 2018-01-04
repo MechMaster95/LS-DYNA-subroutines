@@ -3,7 +3,7 @@
 c Orthotropic elastic material User subroutine
 c Variables
 c
-c This subroutine is written by K.L.BHARATH REDDY
+c This subroutine is written by N.L.Vishnuvardhan Raju
 c
 c cm(1)=first material constant, here young's modulus in a direction
 c cm(2)=second material constant, youngs modulus in b direction
