@@ -2,7 +2,7 @@
      1 temper,failel,crv,nnpcrv)
 c
 c******************************************************************
-c| K.L.Bharath Reddy                                            |
+c| N.L.Vishnuvardhan Raju                                            |
 c| ------------------------------------------------------------ |
 c| Copyright @ NMCAD Lab                                        |
 c| All rights reserved                                          |
