@@ -2,7 +2,7 @@
      1 temper,failel)
 c isotropic elastic material (sample user subroutine)
 c Variables
-c WRITTEN BY K.L.BHARATH REDDY
+c WRITTEN BY N.L.Vishnuvardhan Raju 
 c cm(1)=first material constant, here young's modulus
 c cm(2)=second material constant, here poisson's ratio
 c .
