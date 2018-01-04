@@ -1,7 +1,7 @@
       subroutine umat47(cm,eps,sig,epsp,hsv,dt1,capa,etype,tt)
 c isotropic elastic material (sample user subroutine)
 c Variables
-c WRITTEN BY K.L.BHARATH REDDY
+c WRITTEN BY Nadimpalli L Vishnuvardhan Raju
 c cm(1)=first material constant, here young's modulus
 c cm(2)=second material constant, here poisson's ratio
 c .
