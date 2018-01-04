@@ -4,7 +4,7 @@ c Isotropic elastic material (User material subroutine)
 c Variables
 c***********************************************************
 c*                                                         *
-c* WRITTEN BY K.L.BHARATH REDDY                            *
+c* WRITTEN BY N.L.Vishnuvardhan Raju                           *
 c* Copywrited @ NMCAD LAB IISc                             *
 c*                                                         *
 c***********************************************************
